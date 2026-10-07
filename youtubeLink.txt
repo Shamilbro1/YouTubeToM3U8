@@ -1,7 +1,2 @@
-## FORMAT: <channel name> || <channel id> || <category>
-## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
-## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
-## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
-
-Al Qarmazi || Al Qarmzi.id || YouTube Live
-https://www.youtube.com/watch?v=twjm2r_waJ8
+SHAMS TV Jonli Efir || SHAMSTV.yt || YouTube Live
+https://www.youtube.com/watch?v=v5D3XvVtz98
